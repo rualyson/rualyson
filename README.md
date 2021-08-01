@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, i'm Rualyson👋
 
-<!--
-**rualyson/rualyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Contact Me on Social Media
 
-Here are some ideas to get you started:
+[Facebook][-1] | [Instagram][0] | [Linkedin][1] | [WhatsApp][2] | [Email](mailto:rualyson@gmail.com) | 💬 [Issue](https://github.com/rualyson/rualyson/issues/me) Me about everything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Rualyson's Github stats](https://github-readme-stats.vercel.app/api?username=rualyson&show_icons=true)
+
+[-1]: https://www.facebook.com/Rualyson/
+[0]: https://www.instagram.com/rualysonc/
+[1]: https://www.linkedin.com/in/rualyson/
+[2]: https://api.whatsapp.com/send?phone=558398020835
+[3]: https://www.v2ex.com/member/lizheming
+
+
+---
